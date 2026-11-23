@@ -1,0 +1,15 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# PyInstaller build artifacts
+build/
+build_lin/
+build_win/
+*.manifest
+
+# User local configs or caches
+.cache/
+*.tmp
+*.temp

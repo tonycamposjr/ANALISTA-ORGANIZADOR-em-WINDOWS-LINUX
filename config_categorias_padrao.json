@@ -1,0 +1,49 @@
+{
+  "Imagens": [
+    ".jpg", ".jpeg", ".png", ".gif", ".bmp", ".tif", ".tiff", ".webp",
+    ".svg", ".ico", ".heic", ".raw", ".cr2", ".nef"
+  ],
+  "Videos": [
+    ".mp4", ".avi", ".mkv", ".mov", ".wmv", ".flv", ".webm", ".m4v",
+    ".mpg", ".mpeg", ".3gp", ".ts", ".vob"
+  ],
+  "Audio": [
+    ".mp3", ".wav", ".flac", ".ogg", ".m4a", ".wma", ".aac", ".mid",
+    ".midi", ".opus"
+  ],
+  "Documentos": [
+    ".pdf", ".doc", ".docx", ".txt", ".odt", ".rtf", ".md", ".wri", ".one"
+  ],
+  "Planilhas": [
+    ".xls", ".xlsx", ".csv", ".ods"
+  ],
+  "Apresentacoes": [
+    ".ppt", ".pptx", ".odp"
+  ],
+  "Compactados": [
+    ".zip", ".rar", ".7z", ".tar", ".gz", ".bz2", ".xz", ".tgz",
+    ".iso", ".cab", ".arj", ".lzh"
+  ],
+  "Instaladores": [
+    ".exe", ".msi", ".msu", ".apk", ".deb", ".rpm", ".appx", ".dmg", ".appimage"
+  ],
+  "Codigo": [
+    ".py", ".js", ".ts", ".html", ".htm", ".css", ".java", ".c", ".cpp",
+    ".h", ".cs", ".php", ".sh", ".bat", ".cmd", ".ps1", ".json", ".xml",
+    ".yml", ".yaml", ".sql", ".ini", ".cfg", ".conf", ".jar", ".dll",
+    ".so", ".ipynb", ".lua", ".pl", ".vbs", ".go", ".rs", ".rb"
+  ],
+  "Fontes": [
+    ".ttf", ".otf", ".woff", ".woff2", ".fon"
+  ],
+  "Design": [
+    ".psd", ".ai", ".xd", ".fig", ".sketch", ".cdr"
+  ],
+  "Maquinas Virtuais": [
+    ".vdi", ".vmdk", ".vmem", ".vhd", ".vhdx", ".ova", ".ovf", ".vmx",
+    ".vmsd", ".vmsn", ".vmss", ".nvram"
+  ],
+  "Banco de Dados": [
+    ".db", ".sqlite", ".sqlite3", ".mdb", ".accdb", ".bak", ".mdf"
+  ]
+}
